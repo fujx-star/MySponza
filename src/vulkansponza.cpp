@@ -832,7 +832,7 @@ public:
 
 	bool debugDisplay = false;
 	bool attachLight = false;
-	bool enableSSAO = true;
+	bool enableSSAO = false;
 
 	// Vendor specific
 	bool enableNVDedicatedAllocation = false;
